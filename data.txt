@@ -1,0 +1,39 @@
+India
+Yashasvi Jaiswal
+Shubman Gill
+KL Rahul
+Rishabh Pant
+Tilak Varma
+Abhishek Sharma
+Hardik Pandya
+Jasprit Bumrah
+Arshdeep Singh
+Varun Chakravarthy
+Kuldeep Yadav
+---
+Pakistan
+Fakhar Zaman
+Salman Agha
+Mohammad Haris
+Shaheen Shah Afridi
+Hasan Ali
+Abrar Ahmed
+Saim Ayub
+Khushdil Shah
+Mohammad Nawaz
+Faheem Ashraf
+Mohammad Wasim
+---
+Bangladesh
+Litton Das
+Najmul Hossain Shanto
+Mushfiqur Rahim
+Shakib Al Hassan
+Mahmudullah Riyad
+Towhid Hridoy
+Mustafizur Rahman
+Shoriful Islam
+Taskin Ahmed
+Mehidy Hasan Miraz
+Taijul Islam
+---
